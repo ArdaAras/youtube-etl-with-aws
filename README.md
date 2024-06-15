@@ -4,3 +4,5 @@ Youtube [data](https://www.kaggle.com/datasets/datasnaek/youtube-new) analysis a
 # Tech
 AWS S3, Glue, Athena, Lambda, Quicksight
 
+# Architecture
+![archi](Screenshots/architecture.png)
